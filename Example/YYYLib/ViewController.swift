@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         let str = ""
         str.Hi()
         String.Oh()
+        String.PP()
         // Do any additional setup after loading the view, typically from a nib.
     }
 

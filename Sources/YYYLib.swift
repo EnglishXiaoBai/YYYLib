@@ -14,4 +14,7 @@ extension String {
     public static func Oh(){
         print("static hello world")
     }
+    public static func PP(){
+        print("static 第二个版本")
+    }
 }
