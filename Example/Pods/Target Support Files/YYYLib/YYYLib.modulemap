@@ -1,0 +1,6 @@
+framework module YYYLib {
+  umbrella header "YYYLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
